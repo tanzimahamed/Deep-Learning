@@ -11,14 +11,9 @@ Deep Learning fundamentals and practical implementations — Phitron AI/ML Batch
 | Week 03 | CNN (Convolutional Neural Networks) | ⏳ Upcoming |
 | Week 04 | RNN & LSTM | ⏳ Upcoming |
 
-## 🛠️ Tools & Libraries
-- Python
-- TensorFlow / Keras
-- NumPy, Pandas, Matplotlib
-- Jupyter Notebook / Google Colab
+### 📁 Folder Structure
 
-### 🗂️ Folder Structure
-
+```
 Deep-Learning/
 ├── README.md
 ├── .gitignore
@@ -26,8 +21,7 @@ Deep-Learning/
 ├── Week_01/
 │   ├── README.md
 │   ├── Module_01 (Introduction to Deep Learning)/
-│   │   ├── notes.ipynb
-│   │   └── ...
+│   │   └── notes.ipynb
 │   └── Module_02 (Neural Network Basics)/
 │       └── ...
 │
@@ -38,6 +32,13 @@ Deep-Learning/
 │
 └── Week_03/
     └── ...
+```
+
+## 🛠️ Tools & Libraries
+- Python
+- TensorFlow / Keras
+- NumPy, Pandas, Matplotlib
+- Jupyter Notebook / Google Colab
 
 
 ### 🎯 Goal
