@@ -29,19 +29,11 @@ learns from training examples.
 
 ## 🗂️ Folder Structure
 Week 01/
-│
 ├── Module 01/
-│   └── Introduction to Deep Learning and Perceptrons
-│
 ├── Module_02/
-│   └── How Perceptrons Learn – Intuition, Code, and Edge Cases
-│
 ├── Module_03/
-│   └── Decision Boundaries and Perceptron Learning
-│
 ├── .gitignore
 └── README.md
-
 ---
 
 
