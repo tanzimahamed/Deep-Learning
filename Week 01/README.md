@@ -27,15 +27,12 @@ learns from training examples.
 
 ---
 
-## 🗂️ Folder Structure
 Week 01/
 ├── Module 01/
 ├── Module_02/
 ├── Module_03/
 ├── .gitignore
 └── README.md
----
-
 
 Each module folder contains:
 - 📓 Jupyter notebook(s) with code and implementation
