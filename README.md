@@ -55,5 +55,5 @@ Build a strong foundation in Deep Learning through hands-on practice
 and apply it toward becoming an AI/ML Engineer.
 
 ---
-📌 Part of my [Phitron AI/ML Portfolio](https://github.com/tanzimahamed/Phitron-AI-ML-batch-2)
+
 📌 Part of my [Phitron AI/ML Portfolio](https://github.com/tanzimahamed/Phitron-AI-ML-batch-2)    
