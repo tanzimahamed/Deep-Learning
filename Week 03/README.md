@@ -11,4 +11,4 @@
 - Understanding computation graphs and PyTorch's Autograd system
 
 ---
-*Part of my [Deep Learning](../) repository — Phitron AI/ML Batch 2*
+📌 Part of my [Phitron AI/ML Portfolio](https://github.com/tanzimahamed/Phitron-AI-ML-batch-2)
