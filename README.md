@@ -8,7 +8,9 @@ Deep Learning fundamentals and practical implementations — Phitron AI/ML Batch
 | Week 01 | Perceptrons & Decision Boundaries | ✅ Done |
 | Week 02 | Gradient Descent, Loss Functions & Multi-Layer Perceptrons | ✅ Done |
 | Week 03 | Backpropagation & PyTorch Fundamentals | ✅ Done |
-| Week 04 | PyTorch Training Pipeline & Mid Term | 🔄 Ongoing |
+| Week 04 | PyTorch Training Pipeline & Mid Term | ✅ Done |
+| Week 05 | (add topic) | 🔄 Ongoing |
+| Week 06 | (add topic) | 🔄 Ongoing |
 
 ### 📁 Folder Structure
 
@@ -36,12 +38,18 @@ Deep-Learning/
 │   ├── Module_09 (PyTorch Basics & Backpropagation Implementation)/
 │   └── Module_10 (Computation Graph to Autograd Implementation)/
 │
-└── Week_04/
-    ├── README.md
-    ├── Module_11 (PyTorch Training Pipeline From Scratch)/
-    ├── Module_12 (PyTorch nn Module & torch.optim)/
-    ├── Module_13 (Training Dynamics — Batch, SGD & Mini-Batch)/
-    └── Module_14 (DL Mid Term Exam)/
+├── Week_04/
+│   ├── README.md
+│   ├── Module_11 (PyTorch Training Pipeline From Scratch)/
+│   ├── Module_12 (PyTorch nn Module & torch.optim)/
+│   ├── Module_13 (Training Dynamics — Batch, SGD & Mini-Batch)/
+│   └── Module_14 (DL Mid Term Exam)/
+│
+├── Week_05/
+│   └── README.md
+│
+└── Week_06/
+    └── README.md
 ```
 
 ## 🛠️ Tools & Libraries
@@ -56,4 +64,4 @@ and apply it toward becoming an AI/ML Engineer.
 
 ---
 
-📌 Part of my [Phitron AI/ML Portfolio](https://github.com/tanzimahamed/Phitron-AI-ML-batch-2)    
+📌 Part of my [Phitron AI/ML Portfolio](https://github.com/tanzimahamed/Phitron-AI-ML-batch-2)  
