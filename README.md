@@ -9,8 +9,8 @@ Deep Learning fundamentals and practical implementations — Phitron AI/ML Batch
 | Week 02 | Gradient Descent, Loss Functions & Multi-Layer Perceptrons | ✅ Done |
 | Week 03 | Backpropagation & PyTorch Fundamentals | ✅ Done |
 | Week 04 | PyTorch Training Pipeline & Mid Term | ✅ Done |
-| Week 05 | (add topic) | 🔄 Ongoing |
-| Week 06 | (add topic) | 🔄 Ongoing |
+| Week 05 | Dataset/DataLoader, GPU Training & Loss Functions | ✅ Done |
+| Week 06 | Data Scaling, Batch Normalization & Optimizers | 🔄 Ongoing |
 
 ### 📁 Folder Structure
 
@@ -46,10 +46,16 @@ Deep-Learning/
 │   └── Module_14 (DL Mid Term Exam)/
 │
 ├── Week_05/
-│   └── README.md
+│   ├── README.md
+│   ├── Module_15 (Deep Learning Project Setup — Dataset and DataLoader)/
+│   ├── Module_16 (From ANN Implementation to GPU Training with PyTorch)/
+│   └── Module_17 (Loss Functions and Training Challenges in DNNs)/
 │
 └── Week_06/
-    └── README.md
+    ├── README.md
+    ├── Module_18 (Data Scaling, Standardization and Normalization)/
+    ├── Module_19 (Batch Normalization)/
+    └── Module_20 (Optimizers)/
 ```
 
 ## 🛠️ Tools & Libraries
