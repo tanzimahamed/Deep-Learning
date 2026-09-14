@@ -56,6 +56,8 @@ Deep-Learning/
     ├── Module_18 (Data Scaling, Standardization and Normalization)/
     ├── Module_19 (Batch Normalization)/
     └── Module_20 (Optimizers)/
+    └── Module_21 (DL Final Exam)/
+
 ```
 
 ## 🛠️ Tools & Libraries
