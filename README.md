@@ -10,7 +10,7 @@ Deep Learning fundamentals and practical implementations — Phitron AI/ML Batch
 | Week 03 | Backpropagation & PyTorch Fundamentals | ✅ Done |
 | Week 04 | PyTorch Training Pipeline & Mid Term | ✅ Done |
 | Week 05 | Dataset/DataLoader, GPU Training & Loss Functions | ✅ Done |
-| Week 06 | Data Scaling, Batch Normalization & Optimizers | 🔄 Ongoing |
+| Week 06 | Data Scaling, Batch Normalization & Optimizers | ✅ Done |
 
 ### 📁 Folder Structure
 
